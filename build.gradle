@@ -1,6 +1,6 @@
 plugins {
-    id ("maven-publish")
     id 'java'
+    id ("maven-publish")
 }
 
 group 'com.azoraqua'
@@ -10,10 +10,6 @@ sourceCompatibility = 11
 
 repositories {
     mavenCentral()
-}
-
-plugins {
-
 }
 
 publishing {
