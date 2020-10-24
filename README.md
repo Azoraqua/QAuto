@@ -7,14 +7,14 @@ Put the dependency in your build script:
 ```xml
 <dependency>
   <groupId>com.azoraqua</groupId>
-  <artifactId>QAuto</artifactId>
+  <artifactId>qauto</artifactId>
   <version>VERSION</version>
 </dependency>
 ```
 
 **Gradle:**
 ```groovy
-  QAuto 'com.azoraqua:QAuto:VERSION'
+  QAuto 'com.azoraqua:qauto:VERSION'
 ```
 
 ### Usage
